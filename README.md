@@ -1,6 +1,6 @@
 # Bitamp
 
-The Bitamp is a guitar foot pedal intended to pass along the signal of a Bitcaster guitar, while switching on/off the delivery of 5v to a Bitaxe bitcoin miner embedded in the guitar body.
+The Bitamp is a guitar foot pedal intended to pass along the signal of a Bitcaster guitar, while switching on/off the delivery of 5v to a [Bitaxe](https://github.com/skot/bitaxe) embedded in the guitar body.
 
 The Bitcaster is equipped with a TRS stereo jack instead of the typical TS mono jack, and the Bitamp expects a TRS stereo cable with the following pin assignments:
 
